@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @bmanuelpillai
 - I am an infectious disease modeler
+- PhD student at Emory University
 
 <!---
 bmanuelpillai/bmanuelpillai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
